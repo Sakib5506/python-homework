@@ -22,7 +22,7 @@ This project demonstrates scripting skills used by DevOps engineers for validati
 
 ## 📂 Project Structure
 
-Python-DevOps-Homework/
+python-task-solution/
 ├── Task_01_Domain_Extractor/
 ├── Task_02_Safe_Name_Sanitizer/
 ├── Task_03_Port_Validator/
